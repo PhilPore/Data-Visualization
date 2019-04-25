@@ -47,7 +47,7 @@ function DatVis(Datcont){ //Datcont is an array of objects that has the dates of
 		                  //1104517800000,1104517800000,1209580200000,1304188200000,1304188200000,
 		                //  1304187200000,1304187200000,1400000000000,1200000000000];
 			//var testarray =[1104517800000,1209580200000,1104517800000,1104517800000,1088620200000,1088620200000];
-		var datpoints = DatVis(testarray);
+		var datpoints = DatVis(/**/); //add whatever object name you want, I used testarray for well, testing, but whatever works.
 		console.log(datpoints);
 		var mindate =new Date(Math.min(...testarray));
 		var maxdate = new Date(Math.max(...testarray));
