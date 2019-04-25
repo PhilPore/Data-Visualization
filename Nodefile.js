@@ -1,6 +1,6 @@
-//might need to include a library
-//console.log("Hi!")
-/* 
+
+/*
+Made by: Philip T. Poretsky, Undergraduate at NJIT.
 Objective:
 This code is written with the intent to provide a better data visualization for trends within a time period. The intent is to:
 1 - have a scatterchart that looks at dates
