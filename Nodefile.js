@@ -58,7 +58,7 @@ function DatVis(Datcont){ //Datcont is an array of objects that has the dates of
 			animationEnabled: true,
 			theme: "light2",
 			title:{
-				text: "Growth of selected trend word during "+datpoints.length+" months"
+				text: "Growth of Selected Trend Word Over the Course of the Given Interval"
 			},
 			axisY:{
 				includeZero: false
